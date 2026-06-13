@@ -1,0 +1,24 @@
+Car Price Prediction with Machine Learning
+
+Overview:
+
+This project uses Machine Learning to predict car prices based on features such as year, mileage, fuel type, and transmission.
+
+Technologies:
+
+- Python
+- Pandas
+- Matplotlib
+- Scikit-learn
+
+Steps:
+
+1. Load and clean the dataset.
+2. Preprocess data.
+3. Train a Linear Regression model.
+4. Predict car prices.
+5. Evaluate model performance.
+
+Outcome
+
+Successfully built a car price prediction model and visualized the prediction results.
